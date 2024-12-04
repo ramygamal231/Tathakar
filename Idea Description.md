@@ -1,0 +1,1 @@
+Tathakar is a bilingual app for dementia patients, supporting Arabic and English. It uses voice commands to store and recall information, offering a simple, user-friendly way to help users remember what matters most.
