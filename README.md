@@ -1,4 +1,4 @@
-# Tathakar: Your Voice, Your Memory 
+# Tathakar: Your Voice, Your Memory  
 
 Tathakar, meaning "remember" in Arabic, is a groundbreaking voice-to-text app designed to assist dementia patients in managing and recalling important information. With a focus on simplicity and accessibility, Tathakar empowers users by storing their input through voice commands and offering instant recall when needed.  
 
